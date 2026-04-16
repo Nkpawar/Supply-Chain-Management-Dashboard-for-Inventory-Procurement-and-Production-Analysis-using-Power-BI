@@ -1,0 +1,2 @@
+# Supply-Chain-Management-Dashboard-for-Inventory-Procurement-and-Production-Analysis-using-Power-BI
+This project develops a Supply Chain Management Dashboard using Power BI to analyze inventory, procurement, and production performance. It includes key metrics such as inventory turnover, scrap rate, and cost variance, along with interactive visualizations to support efficient decision-making and operational optimization.

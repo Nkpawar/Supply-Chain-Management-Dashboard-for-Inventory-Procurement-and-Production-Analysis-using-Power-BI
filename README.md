@@ -24,10 +24,10 @@ This project focuses on analyzing inventory, procurement, and production perform
 
 ## 📷 Dashboard Preview
 ### 🔹 Inventory Dashboard
-<img src="dashboard1.png" width="800"/>
+<img src="Supply Chain Dashboard1.png" width="800"/>
 
 ### 🔹 Procurement & Production Dashboard
-<img src="dashboard2.png" width="800"/>
+<img src="Supply Chain Dashboard2.png" width="800"/>
 
 ## 🎯 Outcome
 

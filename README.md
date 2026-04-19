@@ -16,6 +16,20 @@ This project focuses on analyzing inventory, procurement, and production perform
 * SQL
 * Excel
 
+## ▶️ How to Use
+1. Download the .pbix file
+2. Open in Power BI Desktop
+3. Refresh data if required
+4. Use slicers to explore insights
+
+## 📂 Data Source
+- Data used is sample supply chain dataset
+- Includes inventory, procurement, and production data
+
+## ❗ Business Problem
+Companies face challenges in managing inventory, supplier performance, and production efficiency due to lack of proper data insights.
+This dashboard solves these problems by providing clear and interactive visual analysis.
+
 ## 📊 Dashboard Insights
 
 * Identified slow-moving and overstocked items

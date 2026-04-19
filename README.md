@@ -1,86 +1,36 @@
-This project presents an interactive Power BI dashboard designed to analyze and monitor inventory health, procurement performance, and product-level insights.
+# 📊 Supply Chain Management Dashboard (Power BI)
 
-The dashboard helps businesses make data-driven decisions by tracking:
-Procurement trends
-Inventory value
-Rejection & scrap rates
-ABC classification of products
-Reorder risks
+This project focuses on analyzing inventory, procurement, and production performance using Power BI to improve supply chain efficiency.
 
-Objectives
-Monitor overall inventory performance
-Identify high-value and critical products using ABC Analysis
-Track procurement efficiency and trends
-Detect reorder risks and low stock situations
-Analyze rejection and scrap rates for quality improvement
+## 🚀 Key Features
 
-Dataset Details
-The dataset includes:
-Product details (Name, Category, Color)
-Procurement values
-Order, received, rejected, and stocked quantities
-Reorder point & safety stock levels
-Dates for trend analysis
+* Inventory Health Analysis (ABC Classification)
+* Procurement & Supplier Performance Tracking
+* Production & Demand Analysis
+* KPI Monitoring (Stock Levels, Orders, Efficiency)
+* Interactive dashboard with slicers and filters
 
-Dashboard Features
-1. KPI Cards
-Total Products: 504
-Total Procurement Value: 63.79M
-Total Received Quantity: 2M
-Total Rejected Quantity: 73K
-Scrap Rate: 0.23%
-Inventory Value: 61.21M
+## 🛠 Tools Used
 
-2. ABC Analysis (Pareto Chart)
-Classifies products into A, B, C categories
-Identifies top contributors to procurement value
-Helps focus on high-impact products
+* Power BI (DAX, Data Modeling)
+* SQL
+* Excel
 
-3. Procurement Trend
-Displays procurement value over time
-Helps identify increasing/decreasing trends
+## 📊 Dashboard Insights
 
-4. Rejected / Scrapped Trend
-Tracks quality issues
-Compares rejected vs scrapped quantities
+* Identified slow-moving and overstocked items
+* Improved visibility into procurement and stock levels
+* Enabled data-driven decision-making
 
-5. Reorder Risk Table
-Shows:
-Reorder Point
-Safety Stock
-Current Stock
-Flags:
-🔴 Reorder Required
-🟢 Normal Stock
+## 📷 Dashboard Preview
+### 🔹 Inventory Dashboard
+<img src="dashboard1.png" width="800"/>
 
-6. Product-wise Value Share (Treemap)
-Visual representation of product contribution
-Quickly identifies top-performing products
+### 🔹 Procurement & Production Dashboard
+<img src="dashboard2.png" width="800"/>
 
-Detailed Product Analysis Dashboard
-1. Product Detail Matrix
-Product-level breakdown:
-Procurement Value
-Order, Received, Rejected, Stocked Qty
-Reorder & Safety Stock Flags
-Scrap & Rejection %
+## 🎯 Outcome
 
-2. Procurement Value vs Rejection Risk (Scatter Plot)
-Shows relationship between:
-Procurement value
-Rejected quantity
-Helps identify risky high-value products
+This dashboard helps businesses optimize inventory, reduce costs, and improve overall supply chain performance.
 
-3. ABC Class Distribution (Donut Chart)
-A Class → High value
-B Class → Medium value
-C Class → Low value
 
-4. Product Procurement Ranking (Bar Chart)
-Displays top products by procurement value
-
-Tools & Technologies Used
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query (Data Transformation)
-Data Modeling & Relationships 

@@ -38,10 +38,10 @@ This dashboard solves these problems by providing clear and interactive visual a
 
 ## 📷 Dashboard Preview
 ### 🔹 Inventory Dashboard
-<img src="Supply Chain Dashboard1.png" width="800"/>
+<img src="Dashboard01.png" width="800"/>
 
 ### 🔹 Procurement & Production Dashboard
-<img src="supply Chain Dashboard2.png" width="800"/>
+<img src="Dashboard02.png" width="800"/>
 
 ## 🎯 Outcome
 
